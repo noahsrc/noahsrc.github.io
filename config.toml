@@ -1,6 +1,7 @@
 baseURL = 'http://noahsrc.github.io/'
 languageCode = 'en-us'
 theme = 'LoveIt'
+title = "Noah's Blog"
 
 [module]
   [module.hugoVersion]
@@ -61,7 +62,7 @@ theme = 'LoveIt'
       identifier = "posts"
       pre = ""
       post = ""
-      name = "Entries"
+      name = "Posts"
       url = "/posts/"
       title = ""
 
@@ -238,8 +239,8 @@ theme = 'LoveIt'
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/noahsrc"
-    Stackoverflow = "https://stackoverflow.com/users/16488945/noahsrc"
+    GitHub = "noahsrc"
+    Stackoverflow = "16488945/noahsrc"
 
   # Page global config
   # 文章页面全局配置

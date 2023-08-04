@@ -1,4 +1,4 @@
 baseURL = 'http://noahsrc.github.io/'
 languageCode = 'en-us'
-title = 'Noahs Blog'
+title = "Noah's Blog"
 theme = 'LoveIt'

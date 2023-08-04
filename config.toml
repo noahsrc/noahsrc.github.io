@@ -375,7 +375,7 @@ theme = 'LoveIt'
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
-        enable = true
+        enable = false
         owner = "noahsrc"
         repo = "noahsrc.github.io"
         clientId = "f6ad5eb8ebc6c406593a"
@@ -437,9 +437,9 @@ theme = 'LoveIt'
       # utterances comment config (https://utteranc.es/)
       # utterances comment 评论系统设置 (https://utteranc.es/)
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
-        repo = ""
+        repo = "noahsrc/noahsrc.github.io"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
